@@ -17,6 +17,9 @@ This Chrome extension will create an offline website that can be viewed on any m
     * [Steps to Use the Extension](#steps-to-use-the-extension)
     * [Notes](#notes)
 3. [External Libraries](#external-libraries)
+4. [Licenses](#licenses)
+    * [Project Scraper's License](#project-scrapers-license)
+    * [Licenses Project Scraper Uses](#licenses-project-scraper-uses)
 
 ## Installation
 
@@ -97,18 +100,18 @@ Restrict Domain: Check this box if you want to restrict the scraping to the curr
 
 ### Project Scraper's License
 
-Unless otherwise stated, Project Scraper is dual licensed under [GPLv3 License](GPLv3_LICENSE) and [MIT License](MIT_License). This means that you may use either the [GPLv3 License](GPLv3_LICENSE) or [MIT License](MIT_License) when using Project Scraper's source code for your project.
+Unless otherwise stated, Project Scraper is dual licensed under [GPLv3 License](GPLv3_LICENSE) or [MIT License](MIT_License). This means that you may use either the [GPLv3 License](GPLv3_LICENSE) or [MIT License](MIT_License) when using Project Scraper's source code for your project.
 
 ### Licenses Project Scraper Uses
 This project uses the following open-source libraries:
 
 #### jQuery
 - **License**: MIT License
-- **Source**: [jQuery 3.6.0](https://jquery.org/license/)
+- **Source**: [jQuery License](https://jquery.org/license/)
 
 #### Bootstrap
 - **License**: MIT License
-- **Source**: [Bootstrap](https://getbootstrap.com/docs/5.0/about/license/)
+- **Source**: [Bootstrap License](https://getbootstrap.com/docs/5.0/about/license/)
 
 #### JSZip
 - **License**: Dual licensed under the MIT License or GPLv3
