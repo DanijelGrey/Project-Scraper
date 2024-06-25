@@ -92,3 +92,27 @@ Restrict Domain: Check this box if you want to restrict the scraping to the curr
 * Bootstrap
 * JQuery
 * JSZip
+
+## Licenses
+
+### Project Scraper's License
+
+Unless otherwise stated, Project Scraper is dual licensed under [GPLv3 License](GPLv3_LICENSE) and [MIT License](MIT_License). This means that you may use either the [GPLv3 License](GPLv3_LICENSE) or [MIT License](MIT_License) when using Project Scraper's source code for your project.
+
+### Licenses Project Scraper Uses
+This project uses the following open-source libraries:
+
+#### jQuery
+- **License**: MIT License
+- **Source**: [jQuery 3.6.0](https://jquery.org/license/)
+
+#### Bootstrap
+- **License**: MIT License
+- **Source**: [Bootstrap](https://getbootstrap.com/docs/5.0/about/license/)
+
+#### JSZip
+- **License**: Dual licensed under the MIT License or GPLv3
+- **Source**: [JSZip Website](https://stuk.github.io/jszip/)
+- **Source**: [JSZip Github License](https://github.com/Stuk/jszip/blob/main/LICENSE.markdown)
+
+Please refer to the respective licenses for more details.
